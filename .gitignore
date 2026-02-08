@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# outputs
+mutants/
+byproduct/
+python_analysis/
+*.png
+*.html
+*.log
+
+# data (実データは載せない)
+data/
